@@ -1,0 +1,13 @@
+name: iris_classification
+title: iris_classification
+username: naddao
+account: naddao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17161812
+bundleId: 11866366
+url: https://naddao.shinyapps.io/iris_classification/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: myModelIrisRF.rds
